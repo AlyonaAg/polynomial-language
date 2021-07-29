@@ -1,0 +1,30 @@
+$AAAB = (-2x+1)*(2x+1) #=fdffh print($AAAB)!$C = 3+5-2*x^2+3*x^3-3+x
+print($AAAB)
+
+
+$C = 3+5-2*x^2+3*x^3-3+x-5*x+x^2-4*x^3+5+7-3*x
+$D = -1x
+
+$A = 	$C*$D*x^3*x^5*$D*0-1 #dgdfg
+
+print($A)
+
+$DD = (3x+4-2x-x^1)	^	(1-2+1-4x+2x+2x+2) #fgd
+print($DD)
+$T= 3y^2+(y-y)^1*0 -y^2-2y^2
+print($T)
+
+$AAAB = 3y+x*0
+print($AAAB)
+
+$AAB = 3y^2+(x-x)
+print($AAB)
+#$AAB = 3y^2+(x-x)
+#print($AAB)
+
+$AA = -(x)-1*(x)
+print($AA)
+$DC = -(-(-(x-1)))
+print($DC)
+$AAS = -(x+2)^2*(x+1)^2
+print($AAS)
