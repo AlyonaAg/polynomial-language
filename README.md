@@ -29,4 +29,8 @@
 9) 0^0 (неопределённость) (***uncertainty arose (0^0).***);
 10) Используется переменная необъявленная ранее (***undeclared variable.***);
 11) Полином/число возводится в полином степени >0 (***degree of a variable cannot be a polynomial.***);
-12) Полином/число возводится в отрицательную степень (***degree of a variable cannot be a negative number.***);       
+12) Полином/число возводится в отрицательную степень (***degree of a variable cannot be a negative number.***);    
+
+
+## Пример
+Пример входного файла *sample.txt*.
